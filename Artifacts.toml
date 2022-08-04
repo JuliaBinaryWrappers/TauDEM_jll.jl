@@ -1,236 +1,514 @@
 [[TauDEM]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "109c9f0958679fcb77e40c056831852aba87ff66"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "cdebe1ec18fcd7431038e1df6589f2ff1d1b4e9aecf1ad2a4584658f0e493639"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.aarch64-linux-gnu-cxx03.tar.gz"
-[[TauDEM]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f21f0759d1f9da8938f889e59a4ce291d5b0e4ee"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "3f4a535137bd9f1770c1715e93b6352b9ac005cd83a4816058722449d46db7c4"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.aarch64-linux-gnu-cxx11.tar.gz"
-[[TauDEM]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2739ec38b28c729a7823fa4b75a863c7e38efc98"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "88469b73b878b52f8ef8421df337311e3b75f3baa30d7b9503e354c4cd9fe2df"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.aarch64-linux-musl-cxx03.tar.gz"
-[[TauDEM]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "558f6604ea0c8e099c9cfdfc037d60837289a7dd"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "88690c1ef531c36e2abe7c27a9b374168ba165f3fac324dcb0fa90946a6c29e0"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.aarch64-linux-musl-cxx11.tar.gz"
-[[TauDEM]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d041e42feb2f135c07cf7f9ffd9f67b9dc50fa51"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "f17b32501e743143730aaac2f8b24c37ba7f55d8ed5edcf610d7e459f5551deb"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[TauDEM]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f2571de660fe90362b5ae456cf29fd78ded28d1f"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "d2ebf183063b08c1525c4fdb3d2f633ab7fca1696cc59d5b4a571ac68c05c20d"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[TauDEM]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4dbc2791bd11431867c98a3143b88b293b922023"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "a94a0f87a731d9ca23fbee4486608cf40c8290ed264dfc798f76e91ddb412d32"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[TauDEM]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "df0b7cbcf51be3f00dc6929455a77ec89955d3e7"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "6ce052f9d7ed171dbb2f111239ef0e18edbc9d3af6f3a3c22f245ed9ba76404c"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a2c5e1bde1d2265ee1ed0a5cb5de0b6f81c58445"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "05f2b96a4ad4182879f89177a5227a0aca6cc01da7f2bce74186778fc3242a5f"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-linux-gnu-cxx03.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "36c776c7d1fa1dc419aa5f9c38dbff4626e986c1"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "ee6e4a4b1af76fdc00221a1fecf8397037adf919f2257af840c4f7da362ad097"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-linux-gnu-cxx11.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "19b667ce4bf45ab57a3ba55d6d6ba3ebf613dfe4"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "7e6dfcfae9b7abd4d77eda34d48e8fb070f84a4f455e952720048f58b548157e"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-linux-musl-cxx03.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "175aaca456cf2085777ae33419c2e5976bc13ee1"
-libc = "musl"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "6563840ea7d80abf6fb9bf051c18167b832420d7c0d8f048433843945ad13e0e"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-linux-musl-cxx11.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5fb860c9d0579125a41df6261a49ebf6308f1c5d"
-os = "windows"
-
-    [[TauDEM.download]]
-    sha256 = "40e2e8796b41dfabe58ee2b3c590f115572a4be0dd7e7ff5a82c37d1294b4048"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-w64-mingw32-cxx03.tar.gz"
-[[TauDEM]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "97c092ba5541a0b79e8c6bd4a69473815bdecd3a"
-os = "windows"
-
-    [[TauDEM.download]]
-    sha256 = "ebf8d0d95c278a4ae3ec377a2efeda45fb228d6e2f00b9a2517ea0a13e182eff"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.i686-w64-mingw32-cxx11.tar.gz"
-[[TauDEM]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "88f3a9bf27cad63ceb9f8257470e2a7e4c548c03"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "a190223656cf3db29de94ec08814cfd2d1bfab359119a55e43a476285753219d"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[TauDEM]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7583c3b0fa3a37efaf79727be1ff91196f6da8dc"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "d658e5b7b2bdec68e159b4d69c57a7e8d03043231fccaa8cd5d0c0dfae591f36"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[TauDEM]]
-arch = "x86_64"
-git-tree-sha1 = "9f82b12cb66df305f52c159c6077a56e436a9049"
+git-tree-sha1 = "16db1703f0f0601eb33807b907d9d07a198e8a02"
+lazy = true
+mpi = "mpich"
 os = "macos"
 
     [[TauDEM.download]]
-    sha256 = "c2e727406f2dd174efaf0692282a551776c494b95831805b003aa0df6538df6b"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "b4e1a036202382d517a6543170cf51be62e40c3585c66096824440da2eb93e76"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+git-tree-sha1 = "e3d7d3cc3da56171a8c232808290422ee06b4b11"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[TauDEM.download]]
+    sha256 = "d91f9fee04d2d45f553e6bceeb76e2779aa45950e0fec4f1a54ed4545a81b3ff"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1aa92f98f50281c8fe6cb37d84df774d6336fc90"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "f202566ea561eb0630209931f236214e9724d1be3afe039a508c4e5af59cff2b"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ac93d5f8f509f0090507dff92115484469369fbd"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "4646194a2dc1649a93dfa516890c46ee1f6a6701ad0f429f3a4bceb85490e25e"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f5594f48726d5b24dd157555637215476c27e09"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "17e928b9d794a1d48133ef8400035bf19be4d862e29d07ba922559cd5a21b1fe"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b793a378a656900755c9ef7e549d1ed88ddccbba"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "4892cb36234f93a6296732e070270f078b57bf40a04bc437e35fe2a64281208d"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "31caae67cfa78b89fec4dcd43fa5083d90f77c66"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "1f656ae9fa6d5f9acae5a07232414e1a24c5970d19ab77bbaf0edd9c4fe9a269"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f065cea6730cd40b2b48aa25e78b4cc6410b4a1e"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "8a2287c006aa8b2f4b14a6ce8db47fcec092767970a587a26e4cae0925ca6f46"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c9d0d069553a00828149d313cc2faa3319d57064"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "e5790fe5b3623a16cf981465a9ecf556dd26104c866c3b99fc3f4480e9e8c6f4"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f47906c26bb5b6c1ceb5e19c58a2a2677b7710c2"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "6c697ef8437f7d8dd5f5119b0767678c27b161b5de1fcc8a4aeda22bc5160732"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e01c6bd1c2381cb3788ec0a17a764f0018bb8f5"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "0d4ac31fe45ba2b04497bb0681c51b289ec90fc1793c32b90c945ac3be5d4d9e"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d71f7bd2a87e4df27560d8e960c63fcc73d31d12"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "49645cfda73fed8729389d3106e2193f379f1645daa2c6b6d8ea6c968dfd351e"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a98e53b9ad8869f03240a62ffdd552c3f91e049d"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "da6a3bed3546284469b73e119f15214ff07ce5a9a6a796ed493e915353acb05c"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fb2e7cfd3faf892e7fb78d40286c7f8a826a058"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "dd6e32dcf0bc3bc470683c2276786ecc53678f799b3d969fe0a04f428962c4d5"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "943edff510a1d21fc6bec8cc066235772d25077f"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "6d7bc1618193131eb57d53472dbd9bb6880318086970e076d2d93d9319557d01"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d76998f7052523f2fcb48bc0312763806a192b0d"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "df5aefd63d942061913447dcd3cf2081db1c584cd85241fc6b2d55511ba7c2f0"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3e9e1f32dc1193104aa2f880f1d50feab6c9e16"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "abbd9c5a318fd8c9734b76fba03b9769844c4939a08a7a423b890ba1184e2983"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04801121fb48f2c49388293b34cd5685d82318e2"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "187ee92dbe3ed71d47164f93c3c8ca0e51712aa054e46844e3940a38a76be37a"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "614d6925963484f7b8a4f8d9d41e681e98fcabe4"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "6c83b9a54dfa6887db1048d342b448902462be37b8348e0a63313c2816328d3e"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06ced2d7aabc6b54606a54f3c9fa72f804c40933"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "38271b2f9a0bc07d1f874b6b9b4b68b53c2233cd13b9a24490d1b58d16f5130f"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dcc2f94891aa4f768fd2052ffcba4968608858b8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "88e20e51aa282587399aedca519f4214bdf785da6733fcfa199489ff8ba6d4db"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b7487220acb3e740494d9f217054300921a0437"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "f4bc97c1e9538b379384ef1937c65260c4728cadba32d2c1be48428f9af8b164"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "792311d19a1ae247e3ae684498eb6a7ef0f69ff2"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "837428ee980f84b053a640e896ff97d87571fe0e96e9c2b96063ff548a7ab4a0"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9fccd97cae2b22eec6e39eb4c7ae4773bd9a99e"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "f0955d4ec6cd8721e6e3d3b094b30e9a269b8417935da7b1058d8e783ecf381c"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b819e4b1386a3fc8fcb8ddbb8d16bf8373c901b5"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "4eaea16d146f3863cc759167e9052a6ee84b338bfb3803df4150b79218d1088c"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "684af69fa6ae05e7c5213d295c95ecaff3bd0ec3"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "9ee462fb3d84009bf5e5aaedd8f2fc256b16a8ab7d9e918fc43716c42ab7cb91"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f199a74bacd84b0b2627b21800527a9c5daff4c"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[TauDEM.download]]
+    sha256 = "a51dc0cec26c2963372a8bdc2622e42e18555434bdf4bc5b7b73bce425a90b38"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+[[TauDEM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "226ca035683e5c3ebebbae85865743eb2a749c48"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[TauDEM.download]]
+    sha256 = "c8ca2655b88f2ac99f6a6dadfe899a16eadccbe970671f4e31ce5e136b3fe8ac"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
+[[TauDEM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3e054e7626073d9177c47845d11e0c3acc3159cc"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "72d0eb374502b881523d840641484769ca9ee5b80ce88760c636908b6f9adb61"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47e2ce4cb44e29aeecbd3f3cb888fa2b4f107ca0"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "ee8c6ecb82e59dd584ea8f13b00f4c08d4b3a4a580e74dcd721b86f3ca1e4453"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e27e14edbc38c344943c66c20d87e272e546dfc"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "8afbe1fa845a039fe35423441b1b3c4b84d1d5c8e08408aace2cef2ae5ba7f96"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fe0229da8389192fc3bf35d30f8ddfa0c2b6818"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "f0718ce4510063c63ac761f3649d9d267e01ec8ce0f2a987ab8c09b09d816bd7"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "x86_64"
+git-tree-sha1 = "1c4b7a55264e6b247c5b72e8d270c5e7a9d64a5a"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[TauDEM.download]]
+    sha256 = "3f7993ddfecd34c03ee0e0470bcd8680ade4eb0f24fb02dc5a6a8f071d6d948f"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "x86_64"
+git-tree-sha1 = "2bfd60aa6c47cb46f1d385765f2c1408d8960e09"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[TauDEM.download]]
+    sha256 = "01b2d617cf05a3d034733cf099a24d957c74dcddbbb4259e0c019eb0855e1d04"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "24105373f1ddab029432660f946cc1b23d811601"
+git-tree-sha1 = "94ce64506bbe9a386fcc6705e5e34b493a7c4f1f"
+lazy = true
 libc = "glibc"
+mpi = "mpich"
 os = "linux"
 
     [[TauDEM.download]]
-    sha256 = "6ac1cb046206bba835790a4b9e23faee62a5360f8516bee9b9d102468c849ca0"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-linux-gnu-cxx03.tar.gz"
-[[TauDEM]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "13ecc1c314b20c61eb794d638ed81d8ce1659392"
-libc = "glibc"
-os = "linux"
-
-    [[TauDEM.download]]
-    sha256 = "5bc5d23b38210c8fba9e525d34bfed6d1a4aefa671b72cd34762c46f2008075e"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fc9a3859731a407e566bc26060fb2db30046d8918ccea3a429047f9ea640769b"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "64aaa77caeb25f87548553b49e5ef2b16b1f1aab"
-libc = "musl"
+git-tree-sha1 = "8704b06319744ad89b0349c46966a36ee1b2279c"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
 os = "linux"
 
     [[TauDEM.download]]
-    sha256 = "b9f161190634683bea074dd0f99411eefd1335b72d064b054388cc03889590e7"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "75bebeff1d79324e33c0527c975e13f10e3a08305b7d4b912f740a087d7adb3a"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b97dcaa08053624d920511e008d47a225354513"
-libc = "musl"
+git-tree-sha1 = "2e7b9239d06e20905013ed03f62b498eadb706e0"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
 os = "linux"
 
     [[TauDEM.download]]
-    sha256 = "2b9b6fa801debd0754234f0331add29c24b65411a3fb74f27288faa7ae6c6f38"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "58cdc71d2db9c2e371ea56661862e1081b568bf3d46ad19efabce868f202a907"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
-git-tree-sha1 = "1136909d103a79adaa26a7b7bae788f09783c1be"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "32c1c799d9a22ab9eb1fe9704f0ca485c2fab8d1"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "81ce37a8373d15ade3ab7315b474b2ea0f4894f7e195ff32c5357f4aad039ae1"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[TauDEM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "03f30253c7a309b70613c6d326256d211dc9c7d0"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "646df862f5890121a735f3164574a986eb880b558d74f368ada78272dd76a7c6"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5bc0ae2724acee69a1ce2f64d79c2dc7608c6ea6"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[TauDEM.download]]
+    sha256 = "6939eeebde739efbdfeb6a6ab32a9b274caa37bf04476580ab139a14cd94d7be"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[TauDEM]]
+arch = "x86_64"
+git-tree-sha1 = "c0c48d5cb3f6556b836fe86a902149509614d39f"
+lazy = true
+mpi = "mpich"
 os = "freebsd"
 
     [[TauDEM.download]]
-    sha256 = "34efb61bd9ce5b229711b9368fb609769d2ddcf535b59a9c82148912adcc5379"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "977b7366aba0878bea18a631f0475984398e135d5d7397cb58f5f6f9b47582d5"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ad197b9079a6eb08f81e3a686498d8d067fe417"
+git-tree-sha1 = "060aa6c691ffd9608676bc8d2ebd0ac96dc438bd"
+lazy = true
+mpi = "microsoftmpi"
 os = "windows"
 
     [[TauDEM.download]]
-    sha256 = "5707e6c44a9cebdb2bae79e51c0353b7b9183c4d0bc727ab5163c0666f440c2f"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b244fb70a61642af2b93e64295acb9b1f50a74a88acd4d9f6002066b46b73518"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
 [[TauDEM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e2991d26660c7c95e2bfb1912518181aa1140a02"
+git-tree-sha1 = "29b123b9ea5ad53c389b04f7a4c77a63fd25c37b"
+lazy = true
+mpi = "microsoftmpi"
 os = "windows"
 
     [[TauDEM.download]]
-    sha256 = "5a0fd3ba401a2febd6e1464aa2614e8158e9e00f4b1bec661d154894176f70b1"
-    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.7+0/TauDEM.v5.3.7.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c5b3bb451c418fff6ccd0bc7a19d9cd201e762a3079290704483a690d4c07bed"
+    url = "https://github.com/JuliaBinaryWrappers/TauDEM_jll.jl/releases/download/TauDEM-v5.3.8+0/TauDEM.v5.3.8.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
